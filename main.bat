@@ -2,10 +2,9 @@ title GitHub upload
 
 echo off && cls
 
-echo ""
-echo "upar os teus projeto para o github bem rapidinho"
-echo ""
-set /p project_DIR="Insira o caminho do seu projeto >> ";
+echo "[Enviar projetos para o Github]"
+
+set /p project_DIR="Insira o caminho do seu projeto (ex: "C:\dev\projetos\projetolegal") >> ";
 
 set /p nome="Insira o seu nome >> ";
 
