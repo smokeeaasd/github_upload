@@ -4,7 +4,7 @@ echo off && cls
 
 echo "[Enviar projetos para o Github]"
 
-set /p project_DIR="Insira o caminho do seu projeto (ex: "C:\dev\projetos\projetolegal") >> ";
+set /p project_DIR="Insira o caminho do seu projeto (ex: 'C:\dev\projetos\projetolegal') >> ";
 
 set /p nome="Insira o seu nome >> ";
 
